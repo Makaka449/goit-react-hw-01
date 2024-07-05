@@ -1,0 +1,33 @@
+.transaction-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 16px;
+    border: 2px solid black;
+    border-radius: 20px;
+    overflow: hidden; 
+    background-color: aliceblue;
+}
+
+.transaction-table th,
+.transaction-table td {
+    padding: 12px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.transaction-table  {
+    color: black;
+}
+
+th{
+    color: white;
+}
+
+.transactions-title {
+    background-color: black;
+    color: black;
+    padding: 12px; 
+    text-align: center; 
+    border-radius: 20px 20px 0 0; 
+}
+
